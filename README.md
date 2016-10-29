@@ -6,6 +6,4 @@ README file to give it some text and such.
 
 
 I'll toss a few more items in the directory and push them to GitHub.
-
-
-
+This is change 2.
